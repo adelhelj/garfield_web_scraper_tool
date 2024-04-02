@@ -2,7 +2,8 @@ import os
 import shutil
 
 # Specify the source directory where the downloaded images are located
-source_directory = '/Users/jamesadelhelm/Documents/Garfield/garfield_images'
+source_directory = '/Users/Username/Documents/Garfield/garfield_images' 
+# Change to match your source directory
 
 # Get a list of all files in the source directory
 file_list = os.listdir(source_directory)
